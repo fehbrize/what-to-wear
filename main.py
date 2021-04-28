@@ -1,6 +1,5 @@
 import json
-
-import requests;
+import requests
 
 
 def retrieve_coordinates(zipcode):
